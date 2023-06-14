@@ -88,7 +88,7 @@
 ## Assignment 5
 > Know where you are and where you working	
 
-1. `pws`
+1. `pwd`
 
 ![image](https://github.com/karthikeya-io/devops/assets/82776409/d1854c08-c8cc-4dd2-896e-ef5a9487e2e6)
 - gives the present working directory
