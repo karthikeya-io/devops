@@ -1,6 +1,8 @@
-# Assignment 2 
-# Playing with files
+# Assignment 2 - Playing with files
+- Karthikeya Bethu
+- karthikeyabethu01@gmail.com
 
+---
 ## Question 1
 ![image](https://github.com/karthikeya-io/devops/assets/82776409/6b898a0f-eab3-4b67-8b56-36e2ee966baa)
 
